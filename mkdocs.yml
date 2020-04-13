@@ -1,0 +1,7 @@
+site_name: MkDocs.online
+site_url: http://www.mkdocs.online
+repo_url: https://github.com/yeger00/mkdocs-online/
+nav:
+        - Home: index.md
+theme:
+        name: mkdocs
